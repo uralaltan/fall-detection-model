@@ -1,0 +1,8 @@
+numpy
+pandas
+openpyxl
+scikit-learn
+onnx==1.17.0
+onnxruntime
+skl2onnx
+onnxmltools==1.13.0
